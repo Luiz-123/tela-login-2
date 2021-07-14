@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: white; 
+    background-color: rgb(238, 236, 231); 
     background-repeat: no-repeat;
 }
 
@@ -87,7 +87,7 @@ button:hover{
 }
 
 button:active {
-  box-shadow: 0 2px 0 #006599;
+  box-shadow: 0 2px 0 #015077;
   transform: translateY(15px);
 }
 
@@ -121,7 +121,7 @@ input::placeholder{
 }
 
 .links-uteis{
-    margin-bottom: 80px;
+    padding: 30px;
 }
 
 }
