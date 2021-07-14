@@ -114,14 +114,15 @@ input::placeholder{
     color:transparent;
 }
 
-.links-uteis p{    
-    padding: 15px;
+.links-uteis p{       
+    margin-top: 15px; 
+    margin-bottom: 20px;
 }
 
 @media screen and (max-width: 480px) {
 .container{
     width: 100%;
-    height: 100%;      
+    height: 100%;     
 }
 
 }
