@@ -5,20 +5,26 @@
 }
 
 body{
-    background: url(img/paisagem.jpg);
-    background-size: cover;    
+    
+
+    background-image: url(img/paisagem.jpg);
+    background-repeat: no-repeat;
+    
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: white; 
-    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /* e agora a regra de ouro que fará a imagem ocupar todo o viewport */
+    background-size: 100% 100%;
 }
 
 .container{
     width: 350px;
-    height: 80%;
+    margin-top: -3%;
+    height: 76%;
     background: rgba(0, 0, 0, 0.6);
     border-radius: 0% ;
     box-shadow: 1px 2px 20px #fff, 2px 6px 50px #000;
@@ -123,7 +129,9 @@ input::placeholder{
 .container{
     width: 100%;
     height: 100%;     
-    padding: 20px 20px;
+    padding: 20px 20px;             
+    height: auto;   
+    margin-top: 0;
 }
 
 }
