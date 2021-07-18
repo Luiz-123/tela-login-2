@@ -125,7 +125,7 @@ input::placeholder{
 @media screen and (max-width: 480px) {
 .container{
     width: 100vw;
-    height: 100vh;     
+    height: 750px;     
     padding: 20px 20px;             
     /*height: auto;*/
     margin-top: 0;    
