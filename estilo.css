@@ -2,14 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #fff;
+    border: none;
+    text-decoration: none;
 }
 
 body{    
     background-image: url(img/paisagem.jpg);
-    background-repeat: no-repeat;        
-    display: flex;
-    justify-content: center;
-    align-items: center;    
+    background-repeat: no-repeat;               
     background-attachment: fixed;    
     background-size: 100% 100%;
 }
