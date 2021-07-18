@@ -131,7 +131,7 @@ input::placeholder{
 }
 
 .links-bottom p{           
-    margin-bottom: 100%;     
+    margin-bottom: 100% auto;     
 }
 
 }
