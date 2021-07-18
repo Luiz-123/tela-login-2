@@ -125,8 +125,7 @@ input::placeholder{
 .container{    
     width: 100vw;
     height: 100vh;     
-    padding: 20px 20px;             
-    height: auto;      
+    padding: 20px 20px;                      
     margin-top: 0;    
 }
 
