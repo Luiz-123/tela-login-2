@@ -127,9 +127,8 @@ input::placeholder{
     width: 100vw;
     height: 100vh;     
     padding: 20px 20px;             
-    height: auto;
-    margin-top: 0;
-    margin-bottom: 0;
+    /*height: auto;*/
+    margin-top: 0;    
 }
 
 }
