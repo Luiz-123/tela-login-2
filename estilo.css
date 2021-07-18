@@ -120,11 +120,16 @@ input::placeholder{
     margin-top: 15px;       
 }
 
+.links-bottom p{           
+    margin-bottom: 100%;     
+}
+
 @media screen and (max-width: 480px) {
 .container{
     width: 100vw;
-    height: 100vh auto;     
-    padding: 20px 20px;                      
+    height: 100vh;     
+    padding: 20px 20px;             
+    height: auto;      
     margin-top: 0;    
 }
 
