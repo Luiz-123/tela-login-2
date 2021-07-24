@@ -141,11 +141,10 @@ to {
 @media screen and (max-width: 480px) {
 .container{
     width: 100vw;
-    height: 100vh;     
+    height: 450px;     
     padding: 20px 20px;             
     /*height: auto;*/
     margin-top: 0;
-    background-size: cover; 
 }
 
 div {
