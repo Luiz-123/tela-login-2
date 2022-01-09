@@ -90,7 +90,7 @@ button:hover{
 }
 
 button:active {
-    box-shadow: 0 2px 0 #015077;
+    box-shadow: 0 2px 0 transparent; /*#015077*/
     transform: translateY(15px);
 }
 
