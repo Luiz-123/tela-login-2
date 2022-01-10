@@ -154,6 +154,10 @@ to {
     padding: 20px 20px;  
 }
 
+body {
+    height: auto;
+}
+
 div {
     animation-name: none;    
   }
