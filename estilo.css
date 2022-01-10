@@ -148,14 +148,10 @@ to {
 
     border-radius: 0px; 
     width: 100vw;
-    height: 100vh;     
-    /*height: auto;*/
+    /*height: 100vh;*/     
+    height: auto;
     margin-top: 0;      
     padding: 20px 20px;  
-}
-
-body {
-    height: auto;
 }
 
 div {
