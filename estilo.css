@@ -118,7 +118,7 @@ input::placeholder{
 }
 
 div {
-    animation-name: fade;
+    animation-name: none;
     animation-duration: 800ms;
 }
   
